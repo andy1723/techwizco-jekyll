@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "Green Riding Hood"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
