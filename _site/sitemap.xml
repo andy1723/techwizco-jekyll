@@ -29,6 +29,14 @@
 <lastmod>2022-12-04T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/youtube-mp3/</loc>
+<lastmod>2022-12-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/build-your-own-beast-plex-server/</loc>
+<lastmod>2022-12-07T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -42,5 +50,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/privacy-policy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/terms-and-conditions/</loc>
 </url>
 </urlset>
