@@ -14,8 +14,14 @@
 <!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
 <!--<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">-->
 <!-- custom CSS end-->
-    
-{% if jekyll.environment == "production" %}       
+
+{% if jekyll == production %}
+<script src="/assets/js/*.js"></script> 
+{% else %}
+<script src="/assets/js/jquery.min.js"></script>
+{% endif %}
+
+{% if jekyll.environment == "production" %}   
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
 <script>
