@@ -1,0 +1,28 @@
+{
+  "name": "affiliates-jekyll-theme",
+  "version": "1.0.0",
+  "description": "This is for Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test",
+    "minify": "gulp minify-css minify-js minify-html",
+    "minify-css": "gulp minify-css",
+    "minify-js": "gulp minify-js",
+    "minify-html": "gulp minify-html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy1723/techwizco-jekyll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy1723/techwizco-jekyll/issues"
+  },
+  "homepage": "https://github.com/andy1723/techwizco-jekyll#readme",
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}
