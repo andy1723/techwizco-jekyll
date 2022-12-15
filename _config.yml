@@ -3,7 +3,7 @@ email: andre@techwizco.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.avif'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
@@ -54,3 +54,4 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-gzip
