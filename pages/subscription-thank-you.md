@@ -2,7 +2,7 @@
 layout: page
 title: Thank You
 permalink: "/subscription-thank-you/"
-image: assets/images/screenshot.png
+image: assets/images/screenshot.avif
 ---
 
 ## Thank You for subscribing to our newsletter!

@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/screenshot.avif
 ---
 
 TechWizCo is for tech-savvy people who want to stay up-to-date on the latest news and trends in the industry. 
