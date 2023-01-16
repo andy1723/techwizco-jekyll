@@ -3,7 +3,7 @@ email: andre@techwizco.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.avif'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
@@ -20,38 +20,48 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-SMGQ71PCWS
+gzip:
+  replace_files: true
 
 # Authors
 authors:
   andre:
     name: Andre
     display_name: Andre
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/sal.avif'
     email: andre@techwizco.com
     web: https://techwizco.com/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Andre, a native Frenchman born to Vikings' Ukrainian parents, is a widely respected voice in artificial intelligence, cloud development, and embedded systems technologies."
+    twitter: https://twitter.com/
+    description: "Andre is a widely respected voice in artificial intelligence, cloud development, and embedded systems technologies."
   john:
     name: John
     display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    avatar: 'assets/images/john.avif'
+    email: info@techwizco.com
+    web: https://techwizco.com
+    twitter: https://twitter.com/
+    description: "John is a renowned technology expert and author with a passion for exploring the latest advancements in the field. With a wealth of experience and a deep understanding of the industry, John provides valuable insights and analysis on the trends shaping the future of technology."
+  sam:
+    name: Sam
+    display_name: Samantha
+    avatar: 'assets/images/sam.avif'
+    email: info@techwizco.com
+    web: https://techwizco.com
+    twitter: https://twitter.com/
+    description: "Samantha is a leading technology writer and authority, known for her in-depth coverage and analysis of the latest trends and innovations in the industry. Her extensive knowledge and experience make her a valuable resource for understanding the impact of technology on our world."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/
+  facebook: https://www.facebook.com/
+  twitter: https://twitter.com/
 
 # Plugins
 plugins: 
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed
-- jekyll-seo-tag
 - jekyll-archives
 - jekyll-gzip
+- jekyll-seo-tag
