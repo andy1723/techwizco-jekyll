@@ -21,14 +21,15 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: G-SMGQ71PCWS
+
+# gzip compress the following extensions
 gzip:
   replace_files: true
-
-# Robots.txt creation
-seo:
-  robots:
-    - 'User-agent: *'
-    - 'Sitemap: {{ site.sitemap }}'
+  extensions:
+    - '.html'
+    - '.css'
+    - '.js'
+    - '.svg'
 
 # Authors
 authors:
