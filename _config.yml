@@ -64,7 +64,16 @@ social:
   facebook: https://www.facebook.com/
   twitter: https://twitter.com/
 
+# Default exceptions from sitemap for jekyll-sitemap plugin
+defaults:
+  -
+    scope:
+      path:       "pages/*"
+    values:
+      sitemap: false
+      
 # Plugins
+url: "https://techwizco.com"
 plugins: 
 - jekyll-paginate
 - jekyll-sitemap
