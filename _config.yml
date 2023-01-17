@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: john
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -23,6 +23,12 @@ sass:
 ganalytics: G-SMGQ71PCWS
 gzip:
   replace_files: true
+
+# Robots.txt creation
+seo:
+  robots:
+    - 'User-agent: *'
+    - 'Sitemap: {{ site.sitemap }}'
 
 # Authors
 authors:
