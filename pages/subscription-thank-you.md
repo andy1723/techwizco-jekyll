@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Thank You
+title: Thank You for subscribing!
 permalink: "/subscription-thank-you/"
 ---
-
-# Thank You for subscribing!
 
 We are thrilled to have you on board and we promise to keep you updated on all the latest tech happenings. From the newest smartphones to the AI revolution, we've got you covered.
 

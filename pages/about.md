@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: "/about/"
-sitemap: false
 ---
 
 TechWizCo is for tech-savvy people who want to stay up-to-date on the latest news and trends in the industry. 
