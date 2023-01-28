@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: G-SMGQ71PCWS
+ganalytics: "G-SMGQ71PCWS"
 
 # gzip compress the following extensions
 gzip:
