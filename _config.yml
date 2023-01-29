@@ -28,7 +28,7 @@ gzip:
   extensions:
     - '.html'
     - '.css'
-    - '.js'
+    #- '.js'
     - '.svg'
 
 # Authors
