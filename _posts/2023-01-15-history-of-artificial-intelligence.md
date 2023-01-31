@@ -9,7 +9,7 @@ description: Discover the evolution of Artificial Intelligence from ancient myth
 
 ## What is AI
 
-So, what exactly is artificial intelligence (AI)? It's a term that gets thrown around a lot these days, and it can be a little confusing if you're not familiar with it. So, let's take a few minutes to break it down and really understand what AI is all about.
+So, what exactly is [artificial intelligence](https://techwizco.com/10-ways-artificial-intelligence-is-changing-the-world/) (AI)? It's a term that gets thrown around a lot these days, and it can be a little confusing if you're not familiar with it. So, let's take a few minutes to break it down and really understand what AI is all about.
 
 Artificial intelligence is, at its most basic level, the ability of a computer or machine to do things that would normally require human-like intelligence. This includes things like understanding an average human being language, recognizing patterns, solving problems, and learning from experience.
 
