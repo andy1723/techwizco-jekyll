@@ -3,7 +3,7 @@ email: andre@techwizco.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.avif'
+logo: 'assets/images/logo-001.png'
 favicon: 'assets/images/favicon.ico'
 author: john
 paginate: 30
