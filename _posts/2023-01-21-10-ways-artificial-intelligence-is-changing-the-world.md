@@ -82,7 +82,7 @@ One way AI is being used in education is to help students learn in a way that is
 
 Adaptive learning environments are another way that AI is being used to help teach people. This method uses technology to create learning experiences that change based on how well the student understands them. For instance, an AI-powered system might be able to change how hard a math problem is based on how well the student did on previous problems.
 
-Artificial intelligence can also give students feedback in real time. This can be done with natural language processing, which lets the system understand what students say and respond to them. For instance, an AI-powered system might be able to give feedback on a student's essay by pointing out the parts that need to be fixed and making suggestions for how to fix them.
+Artificial intelligence can also give students feedback in real time. This can be done with [natural language processing](https://arxiv.org/abs/2302.12813), which lets the system understand what students say and respond to them. For instance, an AI-powered system might be able to give feedback on a student's essay by pointing out the parts that need to be fixed and making suggestions for how to fix them.
 
 Artificial intelligence can also be used to make virtual reality and augmented reality experiences that can be used to help people learn. These technologies can create immersive environments where students can interact with simulations, games, and other interactive experiences that can help them understand difficult ideas.
 

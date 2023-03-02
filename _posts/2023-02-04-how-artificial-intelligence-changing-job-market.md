@@ -94,7 +94,7 @@ With the rise of AI and machine learning, there has been a lot of talk about how
 
 AI can also fail when it comes to creative fields. The language used in creative fields is often too complex for AI. Even the most advanced AI and machine learning technologies are still far from being able to fully understand the nuances of creative language. Also, AI can't model human emotions and empathy yet, which are very important in many creative fields.
 
-Political and strategizing jobs will also likely remain in human hands in the future. AI still has a long way to go before it can think critically and come up with new ways to solve strategic problems. One supercharged language model might be able to make a lot of text, but it can't make decisions that require critical thinking and an understanding of the context.
+Political and strategizing jobs will also likely remain in human hands in the future. AI still has a long way to go before it can think critically and come up with new ways to solve strategic problems. One supercharged [language model](https://arxiv.org/abs/2303.00628) might be able to make a lot of text, but it can't make decisions that require critical thinking and an understanding of the context.
 
 The same is true for other tasks such as health care or industrial automation. AI can be used to automate some tasks, but there will always be a need for human hands in many industries.
 

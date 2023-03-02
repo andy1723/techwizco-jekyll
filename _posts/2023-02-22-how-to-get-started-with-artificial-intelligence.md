@@ -7,7 +7,7 @@ image: assets/images/ai-guide-girl-intro-01.avif
 description: Our beginner's guide covers the basics of AI, including machine learning, deep learning, and neural networks, as well as ethical considerations and the future of AI.
 ---
 
-Artificial intelligence has been a buzzword for several years now, and for good reason. It is changing the way we use technology and influencing the future of a number of fields. From self-driving cars to personalized recommendations, AI is everywhere, and it's only getting more prevalent by the day. 
+[Artificial intelligence](https://techwizco.com/top-10-artificial-intelligence-tools-and-technologies/) has been a buzzword for several years now, and for good reason. It is changing the way we use technology and influencing the future of a number of fields. From self-driving cars to personalized recommendations, AI is everywhere, and it's only getting more prevalent by the day. 
 
 As a beginner, learning AI may seem intimidating, but it doesn't have to be. In fact, it's a crucial skill to have for the future. In this beginner's guide, we'll dive into the basics of AI and provide you with all the essential knowledge and tools you need to get started with your AI journey. 
 
@@ -160,7 +160,7 @@ One example of a project for learning deep learning is participating in a Kaggle
 
 ### Neural Networks
 
-Neural networks are a fundamental component of artificial intelligence and machine learning. These networks are modeled after the human brain, with interconnected nodes that can process information and learn from it. Neural networks are used for many things, like computer vision, processing natural language, and speech recognition. 
+[Neural networks](https://arxiv.org/abs/2302.14838) are a fundamental component of artificial intelligence and machine learning. These networks are modeled after the human brain, with interconnected nodes that can process information and learn from it. Neural networks are used for many things, like computer vision, processing natural language, and speech recognition. 
 
 They can be used for both supervised and unsupervised learning, and their structure can range from simple feedforward networks to complex recurrent neural networks. In the last few years, neural networks have made a lot of progress thanks to "deep learning," which uses neural networks with many layers to make them more accurate and perform better. 
 

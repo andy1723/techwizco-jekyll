@@ -38,7 +38,7 @@ Machine learning has many applications in several industries, including e-commer
 Source techwizco.com
 
 
-Natural language processing (NLP) is a branch of artificial intelligence that deals with the interaction between human language and computers. It involves the ability of machines to analyze, understand, and generate human language. NLP uses algorithms for machine learning to make sense of human language and figure out what it means. 
+[Natural language processing](https://unsupervisedlearning.substack.com/p/using-large-language-models-effectively) (NLP) is a branch of artificial intelligence that deals with the interaction between human language and computers. It involves the ability of machines to analyze, understand, and generate human language. NLP uses algorithms for machine learning to make sense of human language and figure out what it means. 
 
 Speech recognition is a part of NLP that lets computers transcribe and understand what people say. Natural language generation (NLG) is another subfield of NLP that involves the generation of natural language text by machines. Natural language processing and generation are used by NLP tools like Google Assistant and chatbots to understand and answer human questions. 
 

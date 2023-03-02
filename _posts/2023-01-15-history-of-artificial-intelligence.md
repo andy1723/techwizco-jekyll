@@ -417,7 +417,7 @@ There are a number of ways that the ethical implications of autonomous decision-
 
 ### AI Winter
 
-We should recognize that AI research is a fluctuating process depending on general interest and funding related to it. There is even a term “AI Winter”, which is a period of reduced funding and interest in artificial intelligence (AI) research. AI Winter term was coined in the 1980s to describe a period of time in the 1970s and 1980s when funding for AI research was reduced, leading to a slowdown in progress in the field.
+We should recognize that [AI research](https://twitter.com/chenwang_j/status/1628792565385564160) is a fluctuating process depending on general interest and funding related to it. There is even a term “AI Winter”, which is a period of reduced funding and interest in artificial intelligence (AI) research. AI Winter term was coined in the 1980s to describe a period of time in the 1970s and 1980s when funding for AI research was reduced, leading to a slowdown in progress in the field.
 
 There have been several AI winter[s] since the term was coined, as funding for AI research has tended to fluctuate over time. These downturns in funding are often caused by a combination of factors, such as economic downturns, the failure of AI technologies to meet expectations, and a lack of understanding or appreciation of the potential value of AI research.
 

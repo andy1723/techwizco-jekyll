@@ -40,7 +40,7 @@ Source techwizco.com
 
 ### Popular AI Art Generator
 
-One of the most popular free AI Art Generators on the scene right now is Dall-E 2, developed by OpenAI and introduced in late November 2021. Dall-E 2 is a text-to-image model that generates images based on text prompts, making it possible for users to create anything from imaginary creatures to dreamlike landscapes. Artists have been using Dall-E to create all sorts of interesting and unique works of art, from surreal landscapes to portraits of famous people.
+One of the most popular free [AI Art Generators on the scene right now is Dall-E 2](https://openai.com/product/dall-e-2), developed by OpenAI and introduced in late November 2021. Dall-E 2 is a text-to-image model that generates images based on text prompts, making it possible for users to create anything from imaginary creatures to dreamlike landscapes. Artists have been using Dall-E to create all sorts of interesting and unique works of art, from surreal landscapes to portraits of famous people.
 
 Another popular AI image generator is Runway ML, a machine learning platform that gives users access to a variety of different models, including image generators, photo editors, and text-to-image models. The platform offers a generous free tier that allows users to experiment with the technology without having to spend any money. Users can buy credits to get access to more algorithms and tools if they want more features or want to use the platform for business.
 
