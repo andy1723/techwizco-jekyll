@@ -81,4 +81,3 @@ plugins:
 - jekyll-archives
 - jekyll-gzip
 - jekyll-seo-tag
-- jekyll-loading-lazy
