@@ -3,7 +3,7 @@ layout: post
 title:  "AI Story Generator: How to Write Compelling and Creative Stories"
 author: sam
 categories: [Reviews]
-image: assets/images/ai-story-generator-01.avif
+image: assets/images/ai-story-generator-01.svg
 description: AI story generator is a powerful tool that can help you enhance your creative writing skills and craft compelling and imaginative stories.
 ---
 
@@ -23,7 +23,7 @@ Overall, the AI story writing program offers writers an exciting new tool to hel
 ## How AI Story Generator Works
 
 
-![How AI Story Generator Works](/assets/images/ai-story-generator-02.avif "How it")
+![How AI Story Generator Works](/assets/images/ai-story-generator-02.svg "How it")
 
 
 ### Basic mechanics of AI story generator
@@ -35,7 +35,7 @@ AI story generation is based on natural language processing, a branch of AI that
 In the case of AI story generators, this means the model can analyze existing stories to identify patterns and structures that make them compelling. By combining these patterns with its own creativity, the AI can come up with new and interesting stories that grab the attention of the reader.
 
 
-![Types of AI story generators](/assets/images/ai-story-generator-03.avif "AI Story Generators Types")
+![Types of AI story generators](/assets/images/ai-story-generator-03.svg "AI Story Generators Types")
 
 
 ### Types of AI story generators
@@ -55,7 +55,7 @@ In conclusion, AI story writer is an exciting tool for writers who want to come 
 ## Using AI Story Writing Generator to Generate Story Ideas
 
 
-![Generate story ideas](/assets/images/ai-story-generator-04.avif "How to use to generate story ideas")
+![Generate story ideas](/assets/images/ai-story-generator-04.svg "How to use to generate story ideas")
 
 
 ### Overcoming writer's block
@@ -91,7 +91,7 @@ In conclusion, AI story generators are an effective tool that can help writers t
 ## Using AI Story Generator as a Writing Assistant
 
 
-![AI Story Generator as a Writing Assistant](/assets/images/ai-story-generator-05.avif "Writing Assistant")
+![AI Story Generator as a Writing Assistant](/assets/images/ai-story-generator-05.svg "Writing Assistant")
 
 
 ### How AI story generator can be used as a writing assistant
@@ -123,7 +123,7 @@ In conclusion, AI writing tools can be helpful for writers who want to get bette
 ## AI Story Generators and Fiction Genres
 
 
-![AI Story Generator for Fiction Genres](/assets/images/ai-story-generator-06.avif "Fiction Genres")
+![AI Story Generator for Fiction Genres](/assets/images/ai-story-generator-06-01.svg "Fiction Genres")
 
 
 ### How AI Story Writer is used for different fiction genres
@@ -177,7 +177,7 @@ In the end, AI story generators can be a great way for writers to come up with i
 ## In Conclusion
 
 
-![AI Storyteller](/assets/images/ai-story-generator-07.avif "storyteller")
+![AI Storyteller](/assets/images/ai-story-generator-07-svg.svg "storyteller")
 
 
 In the end, AI story generators are changing the world of creative writing because they give writers the perfect way to come up with creative and interesting stories in many different forms and fiction genres. AI story generators make it easy for writers to come up with new ideas, get inspired, and get past writer's block. These tools give detailed outlines and writing prompts to help writers focus on the story plot rather than the technical parts of writing.

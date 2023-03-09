@@ -3,7 +3,7 @@ layout: post
 title:  iPhone 13 Guide
 author: andre
 categories: [How To]
-image: assets/images/iphone-13.avif
+image: assets/images/iphone-13.svg
 description: This is a comprehensive iPhone 13 guide. Learn how to choose the proper model, how to set up, transfer your data, and utilize your phone like an expert.
 ---
 
@@ -33,7 +33,7 @@ Many other apps will be covered in separate user manuals, including video chat a
 
 When you're in trouble, you can use the iPhone 13's Emergency SOS feature. Press the Wake button and one of the phone's power buttons at the same time, then use this slider to turn off your phone or dial 911 for medical assistance!
 
-![iPhone 13 guide sos setup](/assets/images/iPhone-SOS-09.avif)  
+![iPhone 13 guide sos setup](/assets/images/iPhone-SOS-09.svg)  
 Source techwizco.com
 
 It's always a good idea to be ready for emergencies. Apple iPhones may also send a text message with your GPS location and name, allowing you to be identified in an emergency case in an instant! To do so, open your iPhone contacts app, tap the name of the person you want to add to your emergency contacts, and then tap the Add to Emergency Contacts button.
@@ -68,15 +68,15 @@ Look at your app icons, click on "Settings," and then select "Face ID & Passcode
 
 Click "Set Up Face ID," then "Get Started," and then follow the on-screen directions.
 
-![Face ID setup](/assets/images/iphone-face-id.avif)   
+![Face ID setup](/assets/images/iphone-face-id.svg)   
 Source apple.com
 
-![Face ID initial setup](/assets/images/iphone-face-id-initial-setup.avif)   
+![Face ID initial setup](/assets/images/iphone-face-id-initial-setup.svg)   
 Source apple.com
 
 After you've created your ID, go back to "Face ID & Passcode" and specify how you want your ID to be used. iPhone Unlock, iTunes & App Store, Wallet & Apple Pay, and Password AutoFill are the available options.
 
-![iPhone passcode settings](/assets/images/iphone-passcode-settings-01.avif)   
+![iPhone passcode settings](/assets/images/iphone-passcode-settings-01.svg)   
 Source techwizco.com
 
 ## New iOS 15 features
@@ -118,19 +118,19 @@ To set up a Focus Mode:
 
 1.Open up your control center by pulling down from the top right corner of your home screen. 
 
-![focus mode](/assets/images/iphone-focus-mode.avif)   
+![focus mode](/assets/images/iphone-focus-mode.svg)   
 Source techwizco.com
 
 2.Tap on the word “Focus” to set a focus mode. If you tap on the crescent moon icon you will activate Do Not Disturb mode.
 
 3.Select the Focus mode you would like to activate.
 
-![find focus mode](/assets/images/iphone-focus-mode-2-01.avif)   
+![find focus mode](/assets/images/iphone-focus-mode-2-01.svg)   
 Source techwizco.com
 
 4.Tap on three dots next to the focus to set up a specific time for this mode. You can also set this mode until you leave your current location. 
 
-![personal focus mode](/assets/images/iphone-personal-focus-mode-01.avif)   
+![personal focus mode](/assets/images/iphone-personal-focus-mode-01.svg)   
 Source techwizco.com
 
 You may also configure your iPhone to receive notifications in Focus from specified apps and persons. Your phone's Home screen can also be changed for a Focus. Here is one of the greatest user manuals by tomsguide.com that explains in depth how to set up Focus mode on your Apple iPhone.
@@ -139,7 +139,7 @@ You may also configure your iPhone to receive notifications in Focus from specif
 
 Widgets, which were initially brought to the iPhone home screen with iOS 14 and are still available in the iOS 15th edition of the operating system preinstalled on your device. A widget is a fragment from an app that displays information at a glance; this saves you from having to start them or sift through all accessible information when you simply want something quick! On my main screen, I have weather and stock market apps that indicate current circumstances.
 
-![iphone widgets](/assets/images/iphone-widgets-01.avif)   
+![iphone widgets](/assets/images/iphone-widgets-01.svg)   
 Source techwizco.com
 
 Widgets are a simple and appealing way to display useful information on your home screen. What's the best part? They may be stacked together to form what Apple refers to as a Smart Stack, which includes built-in apps! One of my favorite examples is how they've designed it so you don't have to check the widget box every single day - instead, these dynamic pieces alter themselves based upon whatever crucial material might crop up that morning (like meetings).
@@ -150,7 +150,7 @@ Your iPhone 13 is much more helpful with the new widgets. Third-party app develo
 
 When iOS 15 was released, many people weren't aware that Apple had moved the tab bar from its traditional position at the top right of the web page down below. This made Safari more convenient for one-handed use on larger iPhones because you can now easily reach with your thumb rather than having to move up and down between different screens like before! It is particularly useful on larger phones like iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max. 
 
-![safari tab bar](/assets/images/iphone-safari-tab-bar-01.avif)   
+![safari tab bar](/assets/images/iphone-safari-tab-bar-01.svg)   
 Source techwizco.com
 
 If you don't like this change, you can easily reverse it. Enter Safari, press "aA" on the left side of the tab bar, and then select Show Top Address Bar from the pop-up menu that displays after making a selection - no more annoying navigation buttons!
@@ -159,7 +159,7 @@ If you don't like this change, you can easily reverse it. Enter Safari, press "a
 
 The new Photographic Styles feature in the iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max elevates images to new heights. You can now modify your photos before you take them, providing folks an opportunity for some truly unique images they might not have thought about trying otherwise! This function enables you see your picture's appearance before you use the shutter button.
 
-![iphone photo style](/assets/images/iphone-photo-style-01.avif)   
+![iphone photo style](/assets/images/iphone-photo-style-01.svg)   
 Source techwizco.com
 
 If you look at one of the apple user guides you’ll find explanations on how to choose a photographic style. And it is a pretty easy process. Your camera is set to the standard option by default and to choose the style open your camera and tap ⌃ , tap an image stack and swipe left to see the different styles. You can choose from: 

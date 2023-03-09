@@ -3,7 +3,7 @@ layout: post
 title:  "The Ethics of Artificial Intelligence: Balancing Benefits and Risks"
 author: sam
 categories: [Reviews]
-image: assets/images/ethics-ai-woman.avif
+image: assets/images/ethics-ai-woman.svg
 description: Explore the complex topic of AI ethics and learn about the benefits and risks associated with the use of artificial intelligence. Discover the importance of developing ethical principles and guidelines to ensure responsible and ethical use of AI.
 ---
 
@@ -25,7 +25,7 @@ In conclusion, AI ethics is a complicated and multifaceted topic that needs the 
 # Does AI have morality?
 
 
-![ai-ethics-robot](/assets/images/ethics-robot.avif "Robot Ethics")  
+![ai-ethics-robot](/assets/images/ethics-robot.svg "Robot Ethics")  
 Source techwizco.com
 
 
@@ -46,7 +46,7 @@ In conclusion, while artificial intelligence systems can be programmed to make d
 
 
 
-![Responsible AI](/assets/images/ethics-ai-self-driving-car.avif "self driving car")  
+![Responsible AI](/assets/images/ethics-ai-self-driving-car.svg "self driving car")  
 Source techwizco.com
 
 
@@ -143,7 +143,7 @@ In the end, AI transparency is an important part of AI governance and using AI i
 # AI Decision Making
 
 
-![Autonomous weapons](/assets/images/ethics-military-robot.avif "Military Robot")   
+![Autonomous weapons](/assets/images/ethics-military-robot.svg "Military Robot")   
 Source techwizco.com
 
 

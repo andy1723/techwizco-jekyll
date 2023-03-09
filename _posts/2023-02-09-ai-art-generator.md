@@ -3,7 +3,7 @@ layout: post
 title:  "AI Art Generator"
 author: sam
 categories: [Reviews]
-image: assets/images/ai-art-foenix-02.avif
+image: assets/images/ai-art-foenix-02.svg
 description: Discover the world of AI art and learn how AI algorithms are revolutionizing the world of art and creating unique pieces of digital artwork. 
 ---
 
@@ -19,7 +19,7 @@ One of the biggest benefits of best AI Art Generators is that they can create or
 ### AI Generator Creativity
 
 
-![AI Art Generator](/assets/images/ai-art-castle.avif "AI Art Castle")   
+![AI Art Generator](/assets/images/ai-art-castle.svg "AI Art Castle")   
 Source techwizco.com
 
 
@@ -35,7 +35,7 @@ AI Art Generators are becoming a hot topic in the art world, and it's not hard t
 There are a lot of ways to make art with these generators, from digital art to oil paintings. They can be used by both professional artists and people who just want to make art for fun.
 
 
-![AI IMage Generator](/assets/images/ai-art-martial-artist.avif "Ai Image Martial Artists")   
+![AI IMage Generator](/assets/images/ai-art-martial-artist.svg "Ai Image Martial Artists")   
 Source techwizco.com
 
 ### Popular AI Art Generator
@@ -50,7 +50,7 @@ Wombo Dream is another fun and accessible AI Art Generator that allows users to 
 ### AI Art Generator New Ways of Creativity
 
 
-![AI Image Generator](/assets/images/ai-art-car.avif "AI Image Generator Futuristic Car")   
+![AI Image Generator](/assets/images/ai-art-car.svg "AI Image Generator Futuristic Car")   
 Source techwizco.com
 
 
@@ -62,7 +62,7 @@ There are countless AI Art Generators out there, and each one offers something d
 ### AI Generated Art Algorithms
 
 
-![AI Generated Art](/assets/images/ai-art-other-planet.avif "AI Generated Art On the Other Planet")
+![AI Generated Art](/assets/images/ai-art-other-planet.svg "AI Generated Art On the Other Planet")
 
 
 The process of creating AI generated art is fascinating to watch, as well. The AI system looks at the data it is given and changes it using algorithms and mathematical models. The result is something new and creative. It's almost like a time machine, allowing you to see what the same image would look like if it were created by a different artist.
@@ -76,7 +76,7 @@ There are a few things to keep in mind when using the AI Art Generator. For one,
 ## Dall-E AI Image Generator
 
 
-![AI Art](/assets/images/ai-art-scuba.avif "AI Art Scuba Diving")   
+![AI Art](/assets/images/ai-art-scuba.svg "AI Art Scuba Diving")   
 Source techwizco.com
 
 
@@ -86,7 +86,7 @@ Source techwizco.com
 ### AI Generated Art for Commercial Use
 
 
-![AI Art Generation](/assets/images/ai-art-fiction.avif "AI Generated Fantasy World")
+![AI Art Generation](/assets/images/ai-art-fiction.svg "AI Generated Fantasy World")
 
 
 The potential of AI Art Generator is vast and exciting, with artists already using Dall-E mini to create truly imaginative and unique pieces. With its machine learning capabilities and advanced algorithms, Dall-E is able to produce images that are beyond what traditional art generators or even human artists can create. The generated images are not only creative, but also show a high level of stability, making them ideal for commercial use.
@@ -95,7 +95,7 @@ The potential of AI Art Generator is vast and exciting, with artists already usi
 ### AI Helps Bring Imagination to Life
 
 
-![AI Generated Art](/assets/images/ai-art-deer.avif "AI Generated Deer Lake")   
+![AI Generated Art](/assets/images/ai-art-deer.svg "AI Generated Deer Lake")   
 Source techwizco.com
 
 
@@ -107,7 +107,7 @@ AI Art Generator like Dall-E 2 are not just a tool for artists, but for anyone w
 ## Runway ML AI Image Generator
 
 
-![AI Anime Art](/assets/images/ai-art-anime.avif "AI Generated Anime Style")   
+![AI Anime Art](/assets/images/ai-art-anime.svg "AI Generated Anime Style")   
 Source techwizco.com
 
 
@@ -122,7 +122,7 @@ The AI art generation process is simple, as the software only requires an image 
 ### AI Image Generator Increased Popularity
 
 
-![AI Image Generation](/assets/images/ai-art-avengers.avif "AI Generated Avengers Theme")
+![AI Image Generation](/assets/images/ai-art-avengers.svg "AI Generated Avengers Theme")
 
 
 The use of AI in art generation is becoming increasingly popular, as more and more people start to realize the potential of these technologies. One of the benefits of using Runway ML as an AI art generator is that it provides users with free credits, allowing them to create their own AI generated art without having to spend any money. This free level is very generous and lets users try out the software and make images that are fun and interesting.
@@ -133,7 +133,7 @@ In conclusion, Runway ML is a fantastic tool for anyone looking to create AI gen
 ## Wombo Dream AI Art Generator
 
 
-![Artificial Intelligence Art](/assets/images/ai-art-agent.avif "James Bond Style")   
+![Artificial Intelligence Art](/assets/images/ai-art-agent.svg "James Bond Style")   
 Source techwizco.com
 
 
@@ -145,7 +145,7 @@ WOMBO Dream is based on a sophisticated algorithm that lets users create images 
 ### AI Image Generator Easy To Use
 
 
-![AI Art Composition](/assets/images/ai-art-composition.avif "AI Image Unreal World")
+![AI Art Composition](/assets/images/ai-art-composition.svg "AI Image Unreal World")
 
 
 One of the things that sets WOMBO Dream apart from other AI art generators is its ease of use. With a user-friendly interface and a wide range of styles to choose from, creating unique and imaginative art has never been easier. The software also provides detailed guides to help users make the most of their experience, making it a great option for artists of all skill levels.
@@ -156,7 +156,7 @@ WOMBO Dream is completely free to use, making it accessible to everyone, regardl
 ### Existing Images Transformation
 
 
-![AI Image Transformation](/assets/images/ai-art-newspaper.avif "AI Newspaper Image transformation")   
+![AI Image Transformation](/assets/images/ai-art-newspaper.svg "AI Newspaper Image transformation")   
 Source techwizco.com
 
 
@@ -172,7 +172,7 @@ With its advanced algorithms, wide range of styles, and user-friendly interface,
 ## Midjourney AI Art Generator
 
 
-![AI Image Composition](/assets/images/ai-art-starwars.avif "AI Generated Image Starwars Style")   
+![AI Image Composition](/assets/images/ai-art-starwars.svg "AI Generated Image Starwars Style")   
 Source techwizco.com
 
 
@@ -197,7 +197,7 @@ Google has also been experimenting with AI Art Generator, using it to create uni
 ## Night Cafe AI Art Generator
 
 
-![AI Image](/assets/images/ai-art-car-closeup.avif "Car Closeup")
+![AI Image](/assets/images/ai-art-car-closeup.svg "Car Closeup")
 
 
 [NightCaffe](https://creator.nightcafe.studio/) is a popular AI art generator that is liked for how easy it is to use and how many features it has. NightCaffe has become a popular tool for people who want to make interesting images and artwork with digital tools. Unlike other AI image generators, NightCaffe uses credit cards as a currency, but there are other ways to earn the credits, such as volunteering and free membership. This means that NightCaffe can be used by a wider range of people, who can try out its features and functions.

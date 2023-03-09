@@ -3,7 +3,7 @@ layout: post
 title:  "The Top 10 Artificial Intelligence Tools and Technologies You Need to Know"
 author: andre
 categories: [Reviews]
-image: assets/images/ai-10-tools-ai-girl.avif
+image: assets/images/ai-10-tools-ai-girl.svg
 description: Looking to stay on top of the latest AI trends? From machine learning algorithms to natural language processing, we've got you covered with the top 10 must-know AI tools and technologies.
 ---
 
@@ -18,7 +18,7 @@ With the increasing availability of data sets and advanced analytics tools, arti
 
 ## Machine Learning
 
-![Artificial Intelligence Machine Learning](/assets/images/ai-10-tools-machine-learning.avif "AI Machine Learning")   
+![Artificial Intelligence Machine Learning](/assets/images/ai-10-tools-machine-learning.svg "AI Machine Learning")   
 Source techwizco.com
 
 
@@ -34,7 +34,7 @@ Machine learning has many applications in several industries, including e-commer
 ## Natural Language Processing
 
 
-![Artificial Intelligence Natural Language Precessing](/assets/images/ai-10-tools-nlp.avif "AI NLP")   
+![Artificial Intelligence Natural Language Precessing](/assets/images/ai-10-tools-nlp.svg "AI NLP")   
 Source techwizco.com
 
 
@@ -48,7 +48,7 @@ Applications of NLP are widespread across several industries, including content 
 ## Deep Learning
 
 
-![AI Deep Learning](/assets/images/ai-10-tools-deep-learning.avif "deep_learning")   
+![AI Deep Learning](/assets/images/ai-10-tools-deep-learning.svg "deep_learning")   
 Source techwizco.com
 
 
@@ -66,7 +66,7 @@ Overall, deep learning is a powerful tool that can help businesses and industrie
 ## Robotic Process Automation
 
 
-![AI RPA](/assets/images/ai-10-tools-industrial-robot.avif "Robotic Process Automation")   
+![AI RPA](/assets/images/ai-10-tools-industrial-robot.svg "Robotic Process Automation")   
 Source techwizco.com
 
 
@@ -84,7 +84,7 @@ Overall, RPA has the potential to make many industries more efficient and produc
 ## Computer Vision
 
 
-![AI Computer Vision](/assets/images/ai-10-tools-computer-vision.avif "Artificial Intelligence Computer Vision")   
+![AI Computer Vision](/assets/images/ai-10-tools-computer-vision.svg "Artificial Intelligence Computer Vision")   
 Source techwizco.com
 
 

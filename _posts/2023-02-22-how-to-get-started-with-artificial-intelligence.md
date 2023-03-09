@@ -3,7 +3,7 @@ layout: post
 title:  "How to Get Started with Artificial Intelligence: A Beginner's Guide"
 author: sam
 categories: [How To]
-image: assets/images/ai-guide-girl-intro-01.avif
+image: assets/images/ai-guide-girl-intro-01.svg
 description: Our beginner's guide covers the basics of AI, including machine learning, deep learning, and neural networks, as well as ethical considerations and the future of AI.
 ---
 
@@ -17,7 +17,7 @@ So, whether you're a student, a professional, or someone looking to learn someth
 ## Understanding Artificial Intelligence
 
 
-![What is Artificial Intelligence](/assets/images/ai-guide-cyborg-girl-02.avif "What is AI")   
+![What is Artificial Intelligence](/assets/images/ai-guide-cyborg-girl-02.svg "What is AI")   
 Source techwizco.com
 
 
@@ -73,7 +73,7 @@ Even social media platforms like Facebook and Twitter use AI to personalize our 
 ## Preparing to Learn AI
 
 
-![How to learn AI](/assets/images/ai-guide-girl-03.avif "Learning AI")   
+![How to learn AI](/assets/images/ai-guide-girl-03.svg "Learning AI")   
 Source techwizco.com
 
 
@@ -127,7 +127,7 @@ Finally, to stay up to date on the latest developments in AI, following blogs, f
 ## Basic Concepts of AI
 
 
-![Basic AI Concepts](/assets/images/ai-guide-girl-robots-04.avif "AI Concepts")  
+![Basic AI Concepts](/assets/images/ai-guide-girl-robots-04.svg "AI Concepts")  
 Source techwizco.com
 
 
@@ -188,7 +188,7 @@ To get started with NLP, one must have a basic understanding of machine learning
 ## Building Your First AI Project
 
 
-![AI Project](/assets/images/ai-guide-girl-and-robot-05.avif "Building AI Project")   
+![AI Project](/assets/images/ai-guide-girl-and-robot-05.svg "Building AI Project")   
 Source techwizco.com
 
 
@@ -249,7 +249,7 @@ There are several techniques for evaluating the performance of a model, includin
 ## AI in Practice
 
 
-![AI in practice](/assets/images/ai-guide-girl-and-robot-06.avif "Practical AI")   
+![AI in practice](/assets/images/ai-guide-girl-and-robot-06.svg "Practical AI")   
 Source techwizco.com
 
 
@@ -298,7 +298,7 @@ However, with these advancements come new ethical concerns and challenges. It's 
 The future of AI is not just about the technology itself, but how we choose to use it and the impact it has on society as a whole.
 
 
-![Future of AI](/assets/images/ai-guide-girl-cloud-07.avif "AI future")   
+![Future of AI](/assets/images/ai-guide-girl-cloud-07.svg "AI future")   
 Source techwizco.com
 
 

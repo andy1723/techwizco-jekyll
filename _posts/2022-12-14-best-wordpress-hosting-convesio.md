@@ -3,7 +3,7 @@ layout: post
 title:  Best WordPress Hosting Convesio 2023
 author: andre
 categories: [Business Software]
-image: assets/images/convesio-pic.avif
+image: assets/images/convesio-pic.svg
 description: This is a comprehensive review of Best WordPress Hosting Convesio. Learn how simple it is to get started and what advantages Convesio can provide.
 ---
 
@@ -55,45 +55,45 @@ Convesio is a proprietary design that allows your site (and hence all of its con
 
 It is relatively simple to get started. Simply go to convesio.com, click "Get Started," and then "Sign Up" in the "Create your account" page.
 
-![Create your account with Convesio](/assets/images/convesio-create-account.avif)Source convesio.com
+![Create your account with Convesio](/assets/images/convesio-create-account.svg)Source convesio.com
 
 In the next steps, you will verify your email and give Convesio some additional information.
 
-![Next steps in Convesio account registration](/assets/images/convesio-next-steps-registration.avif)Source convesio.com
+![Next steps in Convesio account registration](/assets/images/convesio-next-steps-registration.svg)Source convesio.com
 
 After you are done with this information you will see the following
 
-![Convesio consultation booking](/assets/images/convesio-continue-registration.avif)Source convesio.com
+![Convesio consultation booking](/assets/images/convesio-continue-registration.svg)Source convesio.com
 
 Also accessible are dates for booking a web conference with a Convesio engineer on the scheduling page.
 
-![Convesio consultation scheduling](/assets/images/convesio-intro-schedule.avif)Source convesio.com
+![Convesio consultation scheduling](/assets/images/convesio-intro-schedule.svg)Source convesio.com
 
 Within a few hours, you will receive an email confirming that your account has been accepted, and you will be able to log in to your new account. It is a 6-day trial account that you can use to see if it meets your project objectives.
 
 To get started, click the "Create Your First Site" button.
 
-![Convesio create your first site dashboard](/assets/images/convesio-create-your-first-site.avif)Source convesio.com
+![Convesio create your first site dashboard](/assets/images/convesio-create-your-first-site.svg)Source convesio.com
 
 Choose your container type and select “Set Advanced Options”.
 
-![Convesio new instance creation screenshot](/assets/images/convesio-advaced-options.avif)Source convesio.com
+![Convesio new instance creation screenshot](/assets/images/convesio-advaced-options.svg)Source convesio.com
 
 When you click "Deploy," a process progress window will appear with the ultimate state of the instance deployment.
 
-![Instance creation progress status screen](/assets/images/convesio-status-screen.avif)Source convesio.com
+![Instance creation progress status screen](/assets/images/convesio-status-screen.svg)Source convesio.com
 
 Close the job console, click on “Dashboard”, click “Manage”, and “Site Dashboard”.
 
-![Convesio account dashboard](/assets/images/convesio-site-dashboard.avif)Source convesio.com
+![Convesio account dashboard](/assets/images/convesio-site-dashboard.svg)Source convesio.com
 
 It only takes a few clicks from this dashboard to add your domain name, SSL certificates, activate additional security options, configure a backup schedule, or enable autoscaling. Here's how to enable Convesio autoscaling.
 
-![Autoscaling setup](/assets/images/convesio-autoscaling-enabled.avif)Source convesio.com
+![Autoscaling setup](/assets/images/convesio-autoscaling-enabled.svg)Source convesio.com
 
 If you click on “Advanced Setting” you will see even more granular autoscaling options.
 
-![Convesio advanced autoscaling settings](/assets/images/convesio-autoscaling-advanced.avif)Source convesio.com
+![Convesio advanced autoscaling settings](/assets/images/convesio-autoscaling-advanced.svg)Source convesio.com
 
 On Convesio, you can quickly perform all operations that would require extensive system administrator knowledge of all virtual environment components on other platforms.
 
@@ -151,7 +151,7 @@ Convesio has discovered a solution to the problem of site hosting by utilizing D
 
 The Google Page Insights findings for the freshly generated WordPress site on the Convesio platform are shown below.
 
-![Google Page Insights test result of the newly created Convesio website](/assets/images/convesio-page-speed-insights.avif)Source google.com
+![Google Page Insights test result of the newly created Convesio website](/assets/images/convesio-page-speed-insights.svg)Source google.com
 
 **24/7 Pro Expert Support** - Convesio specialists are just a few clicks away and typically respond in under 5 minutes, so you don't have to worry about sitting on hold or emailing back and forth with each customer who contacts the organization for assistance.
 

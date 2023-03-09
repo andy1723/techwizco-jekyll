@@ -3,7 +3,7 @@ layout: post
 title:  "Build your own beast plex server"
 author: andre
 categories: [How To]
-image: assets/images/plex-main-logo.avif
+image: assets/images/plex-main-logo.svg
 description: "Build Your Own Beast Plex Server to run your own streaming video services. Everything you'll need to set up and run the server."
 ---
 
@@ -21,7 +21,7 @@ The player apps utilized on the front end include Plex Web App, Plexamp, and Ple
 
 Users with free Plex accounts can access Plex, Inc.'s content collection, which includes ad-supported video on demand and free-to-stream live TV channels. These free accounts also enable users to share their personal media libraries with friends or among their own device collection.
 
-![Build your own beast plex server](/assets/images/build-your-own-beast-plex-server.avif)Source plex.tv
+![Build your own beast plex server](/assets/images/build-your-own-beast-plex-server.svg)Source plex.tv
 
 ### Plex Media Server hardware requirements
 
@@ -106,7 +106,7 @@ Run the installer and proceed with the standard Windows 10 installation procedur
 
 It is time to perform a beast plex software initial configuration when the server has been activated and displays a System Tray icon (the one at the bottom right of the screen). Simply select "Open Plex..." from the Plex system tray menu.
 
-![Best Plex Server on Windows](/assets/images/beast-plex-servre-initial-configuration.avif)
+![Best Plex Server on Windows](/assets/images/beast-plex-servre-initial-configuration.svg)
 
 #### Beast Plex Server on Mac OS
 
@@ -114,7 +114,7 @@ To build your own beast plex server on Mac OS, download the Plex Media Server so
 
 After launching the media server from the Application folder, you can begin initial server setup by clicking on “Open Plex...” from the “>” icon.
 
-![Beast Plex Server on Mac](/assets/images/beast-plex-server-initial-setup-on-mac.avif)Source plex.tv
+![Beast Plex Server on Mac](/assets/images/beast-plex-server-initial-setup-on-mac.svg)Source plex.tv
 
 #### Beast Plex Server on Linux
 

@@ -3,7 +3,7 @@ layout: post
 title:  "10 Ways Artificial Intelligence is Changing the World"
 author: sam
 categories: [Reviews]
-image: assets/images/10-ways-ai-pic.avif
+image: assets/images/10-ways-ai-pic.svg
 description: Explore the top 10 ways Artificial Intelligence is revolutionizing various industries and shaping the future. Get insights on the impact of AI today
 ---
 
@@ -35,7 +35,7 @@ AI in healthcare may raise concerns like any other technology. Biased data used 
 ## AI in Finance
 
 
-![Robot trading stocks](/assets/images/10-ways-robot-trading-stocks.avif "Trading stocks") Source techwizco.com
+![Robot trading stocks](/assets/images/10-ways-robot-trading-stocks.svg "Trading stocks") Source techwizco.com
 
 
 Artificial intelligence neural networks are being used efficiently in finance, which is one of the areas where it is being used the most. It could change how financial institutions work and how they make decisions in business operations. One of the best things about AI in finance is that it can automate financial tasks and analysis, use predictive analytics, and find patterns in financial data.
@@ -56,7 +56,7 @@ AI in finance is changing how financial institutions work and make decisions, an
 ## AI in Transportation
 
 
-![Self driving cars](/assets/images/10-ways-self-driving-car.avif "self driving cars") Source techwizco.com
+![Self driving cars](/assets/images/10-ways-self-driving-car.svg "self driving cars") Source techwizco.com
 
 
 Artificial intelligence is changing the world in many ways, but one of the most obvious is how it is used in transportation. From self driving automobiles to smart traffic systems, AI is being used to make transportation safer, more efficient, and easier for everyone.

@@ -3,7 +3,7 @@ layout: post
 title:  "The history of Artificial Intelligence: From Ancient Myth to Modern Reality"
 author: sam
 categories: [Reviews]
-image: assets/images/ai-01-violet-robot.avif
+image: assets/images/ai-01-violet-robot.svg
 description: Discover the evolution of Artificial Intelligence from ancient myths and legends to the modern reality. Explore the history of AI from early ideas and theories to the latest developments and breakthroughs in the field
 ---
 
@@ -23,14 +23,14 @@ But it's not all sunshine and rainbows when it comes to AI. There are also ethic
 
 Did you know that the concept of artificial intelligence (AI) has been around for centuries? It's true! While the term "artificial intelligence" wasn't coined by computer scientist until the 1950s, people have always been fascinated with the idea of creating intelligent machines for much longer.
 
-![Talos bronze robot](/assets/images/ai-01-talos.avif "Greek mythology robot Talos") Source techwizco.com
+![Talos bronze robot](/assets/images/ai-01-talos.svg "Greek mythology robot Talos") Source techwizco.com
 
 One of the earliest references to AI can be found in ancient mythology. In Greek mythology, for example, there was a story about a bronze robot named Talos who protected the island of Crete.
 
 But it wasn't just ancient civilizations that were interested in creating intelligent machines. In the 16th century, Leonardo da Vinci designed a humanoid robot that was powered by a series of pulleys and gears. And in the 17th century, mathematician and philosopher Gottfried Leibniz proposed the idea of creating a "universal language" that could be used to communicate with intelligent machines.
 
 
-![Turin machine blueprint](/assets/images/ai-01-turin-machine.avif "Turing machine blueprint")  
+![Turin machine blueprint](/assets/images/ai-01-turin-machine.svg "Turing machine blueprint")  
 Source redbubble.com
 
 
@@ -46,7 +46,7 @@ It's amazing to think about how far we've come in the field of artificial intell
 Have you ever thought about where the concept of artificial intelligence (AI) originated? It might surprise you to learn that the idea of creating intelligent machines has been around for centuries. In fact, ancient mythology and writing have some of the earliest references to AI.
 
 
-![Robot Maya](/assets/images/ai-01-maya.avif "Hindu mythology robot Maya") Source techwizco.com
+![Robot Maya](/assets/images/ai-01-maya.svg "Hindu mythology robot Maya") Source techwizco.com
 
 
 In Hindu mythology, there is a story about a robot named Maya who was created by the god Shiva. According to the myth, Maya was able to create any object or creature simply by thinking about it.
@@ -63,7 +63,7 @@ It might surprise you to learn that some mechanical devices that incorporate AI-
 One of the earliest examples is the "Automatic Flute Player," which was created by the Greek inventor Hero of Alexandria in the 1st century AD. This device consisted of a series of tubes and valves that were powered by steam, and it was able to play a tune on a flute by itself.
 
 
-![Clockwork Turk](/assets/images/ai-01-mech-turk.avif "chess-playing machine made in the 18th century") Source techwizco.com
+![Clockwork Turk](/assets/images/ai-01-mech-turk.svg "chess-playing machine made in the 18th century") Source techwizco.com
 
 
 The "Clockwork Turk," a chess-playing machine made in the 18th century, is another early example. The Turk was a mechanical robot that was able to play chess against human opponents and even beat some of the best players of the time. Years later, it was found out that the Turk actually had a secret compartment where a human chess player could control its movements.
@@ -73,7 +73,7 @@ In the 19th century, Charles Babbage's "Difference Engine," a mechanical calcula
 It's amazing to think about how far we've come in the field of artificial intelligence, and it's clear that these early mechanical devices played a crucial role in the development of modern AI technologies. Who knows what the future holds for AI? The possibilities are truly endless.
 
 
-![Unimate industrial robot](/assets/images/ai-01-Unimate-first-ind-robot.avif "first industrial robot")  
+![Unimate industrial robot](/assets/images/ai-01-Unimate-first-ind-robot.svg "first industrial robot")  
 Source automate.org
 
 
@@ -87,7 +87,7 @@ As you can see, the history of AI is rich and fascinating, and it's clear that w
 The field of artificial intelligence (AI) has its roots in the development of computer science. In the early 20th century, the first electronic computers were developed, opening the door to the possibility of creating machines that could perform tasks requiring human-like intelligence. The term "artificial intelligence" was coined in the 1950s, marking the birth of the AI field.
 
 
-![First computer](/assets/images/ai-01-first-computers-1950.avif "one of the first computers")  
+![First computer](/assets/images/ai-01-first-computers-1950.svg "one of the first computers")  
 Source alamy.com
 
 
@@ -101,7 +101,7 @@ Now, AI is used in a wide range of applications, including self-driving cars, la
 The history of AI is full of important milestones and achievements. One early example is the development of the "Pascal's Calculator," a mechanical calculator designed by Blaise Pascal in the 17th century. This machine was able to perform addition and subtraction using a system of gears and could handle numbers up to eight digits long.
 
 
-![Analytical Engine](/assets/images/ai-01-charles-babbage-analytical-engine.avif "General-purpose mechanical computer designed by Charles Babbage in the 19th century")  
+![Analytical Engine](/assets/images/ai-01-charles-babbage-analytical-engine.svg "General-purpose mechanical computer designed by Charles Babbage in the 19th century")  
 Source sciencemuseumgroup.org.uk
 
 
@@ -110,7 +110,7 @@ Another significant milestone was the creation of the "Analytical Engine," a gen
 In the 20th century, AI research focused on creating artificial intelligence systems that could perform specific tasks based on predetermined rules, a field known as "expert systems." One notable achievement in this area was the development of the "XCON" system, which was used to design and manufacture computer chips at the Xerox Corporation in the 1980s.
 
 
-![AlphaGo](/assets/images/ai-01-alpha-go-against-lee-sedol.avif ""AlphaGo" artificial intelligence program")   Source deepmind.com
+![AlphaGo](/assets/images/ai-01-alpha-go-against-lee-sedol.svg ""AlphaGo" artificial intelligence program")   Source deepmind.com
 
 
 More recent milestones in the field of AI include the development of the "Watson" artificial intelligence system, which was able to beat human champions on the TV game show "Jeopardy!" in 2011, and the creation of the "AlphaGo" artificial intelligence program, which defeated world champion Go player Lee Sedol in 2016.
@@ -144,7 +144,7 @@ There are also hybrid approaches to AI that combine elements of both rule-based 
 Hybrid AI development systems combine elements of both rule-based and machine learning systems. These types of systems are able to adapt and learn from experience, but also have the ability to perform specific tasks based on predetermined rules. Hybrid AI systems are often used in applications where the task is complex and the possible outcomes are difficult to predict. 
 
 
-![Self-driving car](/assets/images/ai-01-self-driving-car.avif "Hybrid AI systems")
+![Self-driving car](/assets/images/ai-01-self-driving-car.svg "Hybrid AI systems")
 Source techwizco.com
 
 Examples of hybrid AI systems include self-driving cars, which are able to make decisions based on both predetermined rules and real-time data from sensors, and virtual assistants, which are able to understand and respond to natural language input [speech recognition] but also have the ability to perform specific tasks based on predefined rules.
@@ -195,7 +195,7 @@ In addition to self-driving vehicles, AI is also being used in the transportatio
 
 ### AI in military
 
-![Autonomous weapons systems](/assets/images/ai-01-military-robot.avif "AI technology in the military") Source techwizco.com
+![Autonomous weapons systems](/assets/images/ai-01-military-robot.svg "AI technology in the military") Source techwizco.com
 
 
 Cutting edge AI is being used in a number of ways to improve the military industry. One application of AI technology in the military is the development of autonomous weapons systems, such as drones and robots. These systems are equipped with sensors and AI algorithms that allow them to navigate battlefields and make decisions in real-time.

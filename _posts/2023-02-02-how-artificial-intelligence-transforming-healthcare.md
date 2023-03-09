@@ -3,7 +3,7 @@ layout: post
 title:  "How Artificial Intelligence is Transforming Healthcare"
 author: andre
 categories: [Reviews]
-image: assets/images/ai-healthcare-digital.avif
+image: assets/images/ai-healthcare-digital.svg
 description: Discover how AI is revolutionizing the healthcare industry by improving population health, clinical decision making, patient risk identification and enhancing the care of critically ill patients. Learn about the impact of predictive analytics and digital health on the healthcare ecosystem and how AI is improving patient safety. 
 ---
 
@@ -51,7 +51,7 @@ If we think of AI as a way to make people smarter, we can build effective and tr
 ## **Reducing the burdens of electronic health record use**
 
 
-![AI Healthcare Evaluation](/assets/images/ai-healthcare-human.avif "Healthcare Human AI")  
+![AI Healthcare Evaluation](/assets/images/ai-healthcare-human.svg "Healthcare Human AI")  
 Source techwizco.com
 
 
@@ -127,7 +127,7 @@ And it doesn't stop there! AI is also helping to improve patient flow and experi
 ## **Precision therapeutics**
 
 
-![Precision therapeutics AI](/assets/images/ai-healthcare-xray.avif "Precision therapeutics AI")  
+![Precision therapeutics AI](/assets/images/ai-healthcare-xray.svg "Precision therapeutics AI")  
 Source techwizco.com
 
 
@@ -161,7 +161,7 @@ Overall, using AI to plan radiotherapy is an exciting new development that has t
 ## **AI-driven drug discovery**
 
 
-![AI drug discovery](/assets/images/ai-healthcare-heart.avif "AI drug discovery")  
+![AI drug discovery](/assets/images/ai-healthcare-heart.svg "AI drug discovery")  
 Source techwizco.com
 
 

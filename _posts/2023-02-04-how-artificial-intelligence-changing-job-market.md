@@ -3,7 +3,7 @@ layout: post
 title:  "The Future of Work: How Artificial Intelligence is Changing the Job Market"
 author: andre
 categories: [Reviews]
-image: assets/images/ai-job-market-intro.avif
+image: assets/images/ai-job-market-intro.svg
 description: Discover the impact of Artificial Intelligence (AI) on the job market. Learn how AI is transforming workplaces, the implications of this shift, and the opportunities AI provides. Explore how individuals, businesses, and governments can use AI to create a more prosperous future of work. 
 ---
 
@@ -23,7 +23,7 @@ As AI continues to improve beyond what it can do now, it's becoming more and mor
 ## The Rise of Robotics and AI
 
 
-![The Rise of Robotics](/assets/images/ai-job-market-girl-3.avif "rize_robotics")   
+![The Rise of Robotics](/assets/images/ai-job-market-girl-3.svg "rize_robotics")   
 Source techwizco.com
 
 
@@ -46,7 +46,7 @@ Ultimately, the introduction of AI and robotics will have a major impact on the 
 ## Accelerating progress in AI and automation is creating opportunities for businesses, the economy, and society.
 
 
-![AI Automation](/assets/images/ai-job-market-cyborg.avif "ai_automation")   
+![AI Automation](/assets/images/ai-job-market-cyborg.svg "ai_automation")   
 Source techwizco.com
 
 
@@ -66,7 +66,7 @@ AI and automation are here to stay and will continue to shape the future of work
 ## **Will artificial intelligence (AI) replace jobs?**
 
 
-![AI Replacing Jobs](/assets/images/ai-job-market-girl.avif "ai_replacing_jobs")   
+![AI Replacing Jobs](/assets/images/ai-job-market-girl.svg "ai_replacing_jobs")   
 Source techwizco.com
 
 
@@ -84,7 +84,7 @@ AI has the potential to make the future of work much better, but it won't be abl
 ## **Industries That Will Always Need Humans**
 
 
-![Human Industries](/assets/images/ai-job-market-cyborg-2.avif "human_industries")   
+![Human Industries](/assets/images/ai-job-market-cyborg-2.svg "human_industries")   
 Source techwizco.com 
 
 
@@ -106,7 +106,7 @@ Since the industrial revolution in the early 1900s, people have been worried abo
 ## **Types of Jobs AI Will Impact**
 
 
-![Jobs AI Impact](/assets/images/ai-job-market-cyborg-shadow.avif "jobs_ai_impact")   
+![Jobs AI Impact](/assets/images/ai-job-market-cyborg-shadow.svg "jobs_ai_impact")   
 Source techwizco.com
 
 
@@ -131,7 +131,7 @@ The impact of AI on jobs, however, is not all positive. While AI can create new 
 ### AI Industrial Revolution
 
 
-![AI Industrial Revolution](/assets/images/ai-job-market-robot.avif "ai_industrial_revolution")  
+![AI Industrial Revolution](/assets/images/ai-job-market-robot.svg "ai_industrial_revolution")  
 Source techwizco.com
 
 
@@ -143,7 +143,7 @@ So, it's important to think about how AI will change work and the economy in the
 ## **The Benefits of AI in the Workplace**
 
 
-![AI Benefits in the Workplace](/assets/images/ai-job-market-girl-2.avif "ai_workplace_benefits")  
+![AI Benefits in the Workplace](/assets/images/ai-job-market-girl-2.svg "ai_workplace_benefits")  
 Source techwizco.com
 
 
@@ -159,7 +159,7 @@ AI technologies are getting better and better, and it's likely that they will co
 ## In Conclusion
 
 
-![AI Future](/assets/images/ai-job-market-robot-2.avif "ai_future")   
+![AI Future](/assets/images/ai-job-market-robot-2.svg "ai_future")   
 Source techwizco.com
 
 
