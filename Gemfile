@@ -21,4 +21,5 @@ group :jekyll_plugins do
     gem 'tzinfo'
     gem 'jekyll-gzip'
     gem 'jekyll-seo-tag'
+    gem 'jekyll-loading-lazy'
 end
