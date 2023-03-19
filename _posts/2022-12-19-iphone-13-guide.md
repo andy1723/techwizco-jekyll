@@ -3,7 +3,7 @@ layout: post
 title:  iPhone 13 Guide
 author: andre
 categories: [How To]
-image: assets/images/iphone-13.svg
+image: assets/images/iphone-13-01.svg
 description: This is a comprehensive iPhone 13 guide. Learn how to choose the proper model, how to set up, transfer your data, and utilize your phone like an expert.
 ---
 
