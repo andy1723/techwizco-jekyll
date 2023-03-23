@@ -21,7 +21,7 @@ It's also important to note that Copilot X is not perfect. There may be times wh
 
 Copilot X is not free, but GitHub is offering a free trial period for those who want to try it out. After the trial period, you can subscribe to the service to continue using it. The subscription fee is reasonable, and you get access to a powerful AI-powered assistant that can save you valuable time.
 
-One of the main benefits of Copilot X is that it can speed up the development process. Writing code can be a time-consuming and frustrating process, especially when you're dealing with complex projects. Copilot X can help speed up the process by generating code quickly and accurately. This can help you save valuable time and increase your productivity.
+One of the main benefits of Copilot X is that it can speed up the development process. Writing code can be a time-consuming and frustrating process, especially when you're dealing with complex projects. CopilotX can help speed up the process by generating code quickly and accurately. This can help you save valuable time and increase your productivity.
 
 Another benefit of Copilot X is that it can improve the quality of your code. With Copilot X, you have an AI-powered assistant that can suggest different algorithms and libraries that you may not have thought of before. This can assist you in writing more efficient and effective code, as well as improving the overall quality of your project.
 
