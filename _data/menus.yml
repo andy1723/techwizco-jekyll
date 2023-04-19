@@ -7,6 +7,9 @@ topmenu:
 - title: Blog
   url: "categories/"
 
+- title: News
+  url: "categories#News"
+
 - title: About
   url: "about/"
 
