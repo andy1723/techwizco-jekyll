@@ -158,15 +158,6 @@ One of the major challenges in democratizing AI through open source platforms is
 Without access to these basic tools, they are unable to participate in AI development. This lack of accessibility perpetuates existing socio-economic inequalities and hinders progress towards democratizing AI for all.
 
 
-### **Lack of Diversity**
-
-Another major challenge is the lack of diversity in AI development teams and communities. The tech industry, including AI development, has historically been dominated by white males.
-
-This homogeneity leads to a limited perspective on product design and use cases. It also results in biased algorithms that reinforce existing prejudices and inequalities.
-
-To combat this lack of diversity, it’s important to actively seek out diverse voices and perspectives when developing open source platforms for AI development. This includes hiring practices that prioritize diversity as well as creating spaces where underrepresented groups can contribute to the discussion and development of open source tools.
-
-
 ## **Conclusion**
 
 Despite these challenges, democratizing AI through open source platforms is crucial for ensuring that everyone benefits from advancements in technology. By making it more accessible and inclusive, we can unlock new use cases and drive innovation forward.
