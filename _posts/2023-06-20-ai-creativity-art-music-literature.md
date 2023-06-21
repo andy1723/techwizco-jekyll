@@ -72,9 +72,9 @@ With machine learning, the AI can improve its output by analyzing feedback from 
 
 ### **Examples of AI-Generated Music**
 
-One example of an AI-generated composition was created by AIVA (Artificial Intelligence Virtual Artist). AIVA was trained on a dataset of classical music scores and then generated an original piece titled "The Awakening".
+One example of an AI-generated composition was created by [AIVA](https://www.aiva.ai/) (Artificial Intelligence Virtual Artist). AIVA was trained on a dataset of classical music scores and then generated an original piece titled "The Awakening".
 
-Another example is Amper Music, which allows users to input certain parameters such as genre and tempo to create unique pieces of music. Amper's algorithm then generates a fully produced track that users can modify and adjust as they see fit.
+Another example is [Amper Music](https://ampermusic.zendesk.com/hc/en-us), which allows users to input certain parameters such as genre and tempo to create unique pieces of music. Amper's algorithm then generates a fully produced track that users can modify and adjust as they see fit.
 
 
 ### **Advantages and Limitations of Using AI in Music Creation**
