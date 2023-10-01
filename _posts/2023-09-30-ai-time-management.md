@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI in Personal Time Management: Never Miss a Beat"
-author: jihn
+author: john
 categories: [Reviews]
 image: assets/images/ai-time-management-01.svg
 description: Discover the benefits of using AI for personal time management. Explore popular tools, niche applications, and ethical considerations in our expert-written guide.
